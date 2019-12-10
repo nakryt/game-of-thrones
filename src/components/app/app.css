@@ -1,0 +1,17 @@
+.random-char-btn {
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #2b2f51;
+    color: #fff;
+    outline: none;
+}
+
+.random-char-btn:active, .random-char-btn:focus {
+    outline: none;
+}
+
+.container {
+    margin-bottom: 0px;
+}

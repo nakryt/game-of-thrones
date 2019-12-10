@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+    outline: none;
+}
+body {
+    position: relative;
+    margin: 0;
+    overflow-x: hidden;
+    font-size: 16px;
+}
+
+.root-wrapper {
+    background-color: #000;
+}
+
+.root {
+    min-width: 100vw;
+    min-height: 100vh;
+    background: url('img/got.jpeg') center top no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
